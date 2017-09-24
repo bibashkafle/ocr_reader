@@ -1,0 +1,49 @@
+C:\Users\Bibash\documents\visual studio 2010\Projects\OCR\OCR\bin\Debug\OCR.exe.config
+C:\Users\Bibash\documents\visual studio 2010\Projects\OCR\OCR\bin\Debug\OCR.exe
+C:\Users\Bibash\documents\visual studio 2010\Projects\OCR\OCR\bin\Debug\OCR.pdb
+C:\Users\Bibash\documents\visual studio 2010\Projects\OCR\OCR\obj\x86\Debug\OCR.OcrReader.resources
+C:\Users\Bibash\documents\visual studio 2010\Projects\OCR\OCR\obj\x86\Debug\OCR.Properties.Resources.resources
+C:\Users\Bibash\documents\visual studio 2010\Projects\OCR\OCR\obj\x86\Debug\OCR.csproj.GenerateResource.Cache
+C:\Users\Bibash\documents\visual studio 2010\Projects\OCR\OCR\obj\x86\Debug\OCR.exe
+C:\Users\Bibash\documents\visual studio 2010\Projects\OCR\OCR\obj\x86\Debug\OCR.pdb
+C:\Users\Bibash\Documents\Visual Studio 2010\Projects\OCR\OCR\obj\x86\Debug\OCR.csprojResolveAssemblyReference.cache
+C:\Users\Bibash\Documents\Visual Studio 2010\Projects\OCR\OCR\bin\Debug\tessnet2_64.dll
+C:\Users\Bibash\Documents\Visual Studio 2010\Projects\OCR\OCR\bin\Debug\tessnet2_64.pdb
+C:\Users\bibash\Downloads\OCR\OCR\OCR\bin\Debug\OCR.exe.config
+C:\Users\bibash\Downloads\OCR\OCR\OCR\obj\x86\Debug\OCR.exe
+C:\Users\bibash\Downloads\OCR\OCR\OCR\obj\x86\Debug\OCR.pdb
+C:\Users\bibash\Downloads\OCR\OCR\OCR\bin\Debug\OCR.exe
+C:\Users\bibash\Downloads\OCR\OCR\OCR\bin\Debug\OCR.pdb
+C:\Users\bibash\Downloads\OCR\OCR\OCR\bin\Debug\tessnet2_64.pdb
+C:\Users\bibash\Downloads\OCR\OCR\OCR\obj\x86\Debug\OCR.csprojResolveAssemblyReference.cache
+C:\Users\bibash\Downloads\OCR\OCR\OCR\obj\x86\Debug\OCR.OcrReader.resources
+C:\Users\bibash\Downloads\OCR\OCR\OCR\obj\x86\Debug\OCR.Properties.Resources.resources
+C:\Users\bibash\Downloads\OCR\OCR\OCR\obj\x86\Debug\OCR.csproj.GenerateResource.Cache
+C:\Downloads\OCR\OCR\OCR\OCR\bin\Debug\OCR.exe.config
+C:\Downloads\OCR\OCR\OCR\OCR\obj\x86\Debug\OCR.exe
+C:\Downloads\OCR\OCR\OCR\OCR\obj\x86\Debug\OCR.pdb
+C:\Downloads\OCR\OCR\OCR\OCR\bin\Debug\OCR.exe
+C:\Downloads\OCR\OCR\OCR\OCR\bin\Debug\OCR.pdb
+C:\Downloads\OCR\OCR\OCR\OCR\bin\Debug\tessnet2_64.pdb
+C:\Downloads\OCR\OCR\OCR\OCR\obj\x86\Debug\OCR.csprojResolveAssemblyReference.cache
+C:\Downloads\OCR\OCR\OCR\OCR\obj\x86\Debug\OCR.OcrReader.resources
+C:\Downloads\OCR\OCR\OCR\OCR\obj\x86\Debug\OCR.Properties.Resources.resources
+C:\Downloads\OCR\OCR\OCR\OCR\obj\x86\Debug\OCR.csproj.GenerateResource.Cache
+C:\Users\Biabsh\Desktop\OCR\OCR\bin\Debug\OCR.exe.config
+C:\Users\Biabsh\Desktop\OCR\OCR\bin\Debug\OCR.exe
+C:\Users\Biabsh\Desktop\OCR\OCR\bin\Debug\OCR.pdb
+C:\Users\Biabsh\Desktop\OCR\OCR\obj\x86\Debug\OCR.csprojResolveAssemblyReference.cache
+C:\Users\Biabsh\Desktop\OCR\OCR\obj\x86\Debug\OCR.OcrReader.resources
+C:\Users\Biabsh\Desktop\OCR\OCR\obj\x86\Debug\OCR.Properties.Resources.resources
+C:\Users\Biabsh\Desktop\OCR\OCR\obj\x86\Debug\OCR.csproj.GenerateResource.Cache
+C:\Users\Biabsh\Desktop\OCR\OCR\obj\x86\Debug\OCR.exe
+C:\Users\Biabsh\Desktop\OCR\OCR\obj\x86\Debug\OCR.pdb
+D:\project\HEAD\OCR\bin\Debug\OCR.exe.config
+D:\project\HEAD\OCR\bin\Debug\OCR.exe
+D:\project\HEAD\OCR\bin\Debug\OCR.pdb
+D:\project\HEAD\OCR\obj\x86\Debug\OCR.csprojResolveAssemblyReference.cache
+D:\project\HEAD\OCR\obj\x86\Debug\OCR.OcrReader.resources
+D:\project\HEAD\OCR\obj\x86\Debug\OCR.Properties.Resources.resources
+D:\project\HEAD\OCR\obj\x86\Debug\OCR.csproj.GenerateResource.Cache
+D:\project\HEAD\OCR\obj\x86\Debug\OCR.exe
+D:\project\HEAD\OCR\obj\x86\Debug\OCR.pdb
